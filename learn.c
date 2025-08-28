@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Current project from tuturials from C Programming Language - K&R. 
 // print a farenheit-celsius table for fahr = 0, 20, ..., 300 //
 int main (void)
 {
